@@ -4,4 +4,9 @@
 
 # CUENTAS DE GITHUB
 - GITHUB: https://github.com/Migcid/PortafolioM3
+<<<<<<< HEAD
 - GH-PAGES: 
+=======
+- GH-PAGES: https://migcid.github.io/PortafolioM3/
+
+>>>>>>> main
