@@ -3,5 +3,5 @@
 - Se crean los archivos app.json y el script app.js e index.html para crear la estructura base del carrito.
 
 # CUENTAS DE GITHUB
-- GITHUB:
-- GH-PAGES:
+- GITHUB: https://github.com/Migcid/PortafolioM3
+- GH-PAGES: 
