@@ -1,0 +1,42 @@
+[
+    {
+        "sku": 1,
+        "nombre": "Iphone 11",
+        "descripcion": "Descripcion iphone 11",
+        "precio": 999.990,
+        "descuento": 100,
+        "imagen": "https://picsum.photos/id/696/600/400"
+    },
+    {
+        "sku": 2,
+        "nombre": "Iphone 12",
+        "descripcion": "Descripcion Iphone 12",
+        "precio": 899000,
+        "descuento": 500,
+        "imagen": "https://picsum.photos/id/685/600/400"
+    },
+    {
+        "sku": 3,
+        "nombre": "Iphone 13",
+        "descripcion": "Descripcion Iphone 13",
+        "precio": 685000,
+        "descuento": 200,
+        "imagen": "https://picsum.photos/id/686/600/400"
+    },
+    {
+        "sku": 4,
+        "nombre": "Iphone 14",
+        "descripcion": "Descripcion Iphone 14",
+        "precio": 649900,
+        "descuento": 200,
+        "imagen": "https://picsum.photos/id/686/600/400"
+      },
+      {
+        "sku": 5,
+        "nombre": "Iphone 14 Pro Max",
+        "descripcion": "Descripcion Iphone 14 Pro Max",
+        "precio": 559000,
+        "descuento": 200,
+        "imagen": "https://picsum.photos/id/686/600/400"
+      }
+  ]
